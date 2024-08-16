@@ -1,5 +1,5 @@
 # Highway-Racer
-Simple 2D racing game created in Unity3D
+This is a 2D Android game developed in Unity.
 # Requirements
 Make sure you have the following requirements before starting:
 
